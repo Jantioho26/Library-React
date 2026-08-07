@@ -1,5 +1,6 @@
 import React from "react";
-import { Link } from 'react-router-dom'
+import { Link } from 'react-router-dom';
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const BookInfo = ({ books }) => {
   return (
@@ -9,7 +10,10 @@ const BookInfo = ({ books }) => {
           <div className="row">
             <div className="book__selected--top">
                 <Link to="/books" className="book__link">
-                <FontAwesomeIcon icon="arrow-left">
+                  <FontAwesomeIcon icon="arrow-left" />
+                </Link>
+                <Link to="/book" className="book__link">
+                <h2 className="book__selected--title--top">Books</h2>
                 </Link>
             </div>
           </div>
