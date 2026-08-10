@@ -10,7 +10,7 @@ const Cart = ({ cart, changeQuantity }) => {
   });
   return price;
  };
-  return (
+return (
     <div id="books__body">
       <main id="books__main">
         <div className="books__container">
