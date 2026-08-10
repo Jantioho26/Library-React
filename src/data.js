@@ -5,7 +5,7 @@ export const books = [
     title: "Crack the Coding Interview",
     url: "https://m.media-amazon.com/images/I/61mIq2iJUXL._AC_UF1000,1000_QL80_.jpg",
     originalPrice: 49.95,
-    salePrice: 14.95,
+    salePrice: null,
     rating: 4.5,
   },
   {
@@ -29,7 +29,7 @@ export const books = [
     title: "Deep Work",
     url: "https://m.media-amazon.com/images/I/91nujEwIpYL._AC_UF1000,1000_QL80_.jpg",
     originalPrice: 44,
-    salePrice: 19,
+    salePrice: null,
     rating: 4.5,
   },
   {
@@ -45,7 +45,7 @@ export const books = [
     title: "Sell Or Be Sold",
     url: "https://m.media-amazon.com/images/I/616OvChM3RL._AC_UF1000,1000_QL80_.jpg",
     originalPrice: 70,
-    salePrice: 12.5,
+    salePrice: null,
     rating: 5,
   },
   {
@@ -53,7 +53,7 @@ export const books = [
     title: "Rich Dad Poor Dad",
     url: "https://m.media-amazon.com/images/I/81bsw6fnUiL.jpg",
     originalPrice: 11,
-    salePrice: 10,
+    salePrice: null,
     rating: 4,
   },
   {
@@ -61,7 +61,7 @@ export const books = [
     title: "Cashflow Quadrant",
     url: "https://m.media-amazon.com/images/I/71+SWQ6xj1L._AC_UF1000,1000_QL80_.jpg",
     originalPrice: 38,
-    salePrice: 17.95,
+    salePrice: null,
     rating: 4.5,
   },
   {
@@ -69,7 +69,7 @@ export const books = [
     title: "48 Laws of Power Summary",
     url: "https://m.media-amazon.com/images/I/611X8GI7hpL._AC_UF1000,1000_QL80_.jpg",
     originalPrice: 35,
-    salePrice: 19.95,
+    salePrice: null,
     rating: 4.5,
   },
   {
@@ -85,7 +85,7 @@ export const books = [
     title: "How to Win Friends & Influence People",
     url: "https://m.media-amazon.com/images/I/71vK0WVQ4rL._AC_UF1000,1000_QL80_.jpg",
     originalPrice: 30,
-    salePrice: 20,
+    salePrice: null,
     rating: 5,
   },
   {
@@ -93,7 +93,7 @@ export const books = [
     title: "Mastery",
     url: "https://m.media-amazon.com/images/I/51V3121nmkL._AC_UF1000,1000_QL80_.jpg",
     originalPrice: 30,
-    salePrice: 12.95,
+    salePrice: null,
     rating: 4.5,
   },
 ];
